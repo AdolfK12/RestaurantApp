@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@restaurantapp.com",
+      "password": "admin123",
+      "role": "admin",
+      "phoneNumber": "1234567890",
+      "address": "Jalan Menuju Sukses No. 1"
+    },
+    {
+      "username": "test",
+      "email": "test@test",
+      "password": "test",
+      "phoneNumber": "test",
+      "address": "test",
+      "id": 2
+    },
+    {
+      "username": "s",
+      "email": "s@s",
+      "password": "s",
+      "role": "admin",
+      "phoneNumber": "s",
+      "address": "s",
+      "id": 3
+    },
+    {
+      "username": "test",
+      "email": "test@test.gmail",
+      "password": "test",
+      "role": "admin",
+      "phoneNumber": "test",
+      "address": "test",
+      "id": 4
+    }
+  ],
+  "items": [
+    {
+      "name": "test",
+      "categoryId": "1",
+      "price": "1",
+      "authorId": "1",
+      "mainImage": "123",
+      "image": "321",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sushi"
+    },
+    {
+      "id": 2,
+      "name": "Chicken"
+    },
+    {
+      "id": 3,
+      "name": "Ramen"
+    },
+    {
+      "id": 4,
+      "name": "Tempura"
+    }
+  ],
+  "ingredients": []
+}
